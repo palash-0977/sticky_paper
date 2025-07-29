@@ -1,0 +1,17 @@
+.continer3{
+    padding: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    
+}
+
+body{
+    background-color:pink;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
